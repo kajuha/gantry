@@ -1,0 +1,15 @@
+[submodule "src/aliencontrol"]
+	path = src/aliencontrol
+	url = https://github.com/kajuha/aliencontrol.git
+[submodule "src/gantry_startup"]
+	path = src/gantry_startup
+	url = https://github.com/kajuha/gantry_startup.git
+[submodule "src/test_gantry"]
+	path = src/test_gantry
+	url = https://github.com/kajuha/test_gantry.git
+[submodule "src/yapper"]
+	path = src/yapper
+	url = https://github.com/kajuha/yapper.git
+[submodule "src/gantry_robot"]
+	path = src/gantry_robot
+	url = https://github.com/kajuha/gantry_robot.git
